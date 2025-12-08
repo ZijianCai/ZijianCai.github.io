@@ -10,9 +10,6 @@ redirect_from:
 <!-- 大标题区（如果你想要一个醒目的头图或欢迎语，可以在这里加） -->
 <div style="text-align: center; margin-bottom: 6em;"></div>
 
-# 蔡子健课题组  
-<div style="margin-bottom: 6em;"></div>
-
 个人简介
 ====
 蔡子健博士现任中国科学院大学化学科学学院副教授。  
