@@ -11,7 +11,6 @@ redirect_from:
 <div style="text-align: center; margin-bottom: 6em;"></div>
 
 # 蔡子健课题组  
-**中国科学院大学 化学科学学院**
 <div style="margin-bottom: 6em;"></div>
 
 个人简介
