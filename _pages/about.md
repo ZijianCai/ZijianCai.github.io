@@ -22,4 +22,4 @@ wait...
 
 相关链接
 ------
-- [中国科学技术大学化学与材料科学学院](https://scms.ustc.edu.cn/)
+- [中国科学技术大学化学与材料科学学院](https://chem.ucas.ac.cn/index.php/zh-cn/)
