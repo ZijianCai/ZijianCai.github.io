@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="margin: 6em 0;"></div>  
+<div style="margin: 18em 0;"></div>  
 
 个人简介
 ======
