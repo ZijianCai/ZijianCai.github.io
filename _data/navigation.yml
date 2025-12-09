@@ -16,15 +16,15 @@ main:
 
   - title: "课题组资源"
     url: /teaching/    
+
+  - title: "CV"
+    url: /cv/    
     
 # - title: "Portfolio"
 #   url: /portfolio/
         
 #  - title: "Blog Posts"
 #   url: /year-archive/
-    
-  - title: "CV"
-   url: /cv/
     
   - title: "加入我们"
     url: /markdown/
