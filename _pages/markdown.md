@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "招生内容"
+title: "加入我们"
 permalink: /markdown/
 author_profile: true
 redirect_from: 
