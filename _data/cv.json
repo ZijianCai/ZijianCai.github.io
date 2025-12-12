@@ -33,20 +33,20 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of California at Berkeley (UCB)",
+      "area": "Ph.D. in Materials Science and Engineering",
+      "studyType": "Cation Order Construction in Cation-Disordered Rocksalt Cathodes",
+      "startDate": "Aug. 2018",
+      "endDate": "Dec. 2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "University of Science and Technology of China (USTC)",
+      "area": "B.S. in Materials Physics",
+      "studyType": "Department of Chemistry and Materials Science",
+      "startDate": "Sept. 2014",
+      "endDate": "Jun. 2018",
       "gpa": null,
       "courses": []
     },
