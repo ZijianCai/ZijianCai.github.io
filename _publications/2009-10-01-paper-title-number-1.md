@@ -17,7 +17,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 -->
 
 ---
-title: "Paper Title Number 1"
+title: "NE 2023 Mn-rich DRX cathode"
 collection: publications
 ---
 
