@@ -1,28 +1,149 @@
 ---
 layout: archive
-permalink: /year-archive/
 title: "研究成果"
+permalink: /publications/
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
-{% if site.author.googlescholar %}
-  <div class="wordwrap">
+
+<div class="wordwrap">
   你可以点击
   <a href="https://scholar.google.com/citations?user=4OFp18YAAAAJ&hl=en&oi=ao" target="_blank">
     此链接
   </a>
   查看最新研究成果
 </div>
-{% endif %}
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<hr>
+
+<ul class="pub-list">
+  <li>
+    Cai, Z.†, Ouyang, B.†, Hau, H. M., Chen, T., Giovine, R., Koirala, K. P., ... &amp; Ceder, G. (2023).
+    <em>In situ formed partially disordered phases as earth-abundant Mn-rich cathode materials.</em>
+    Nature Energy, 1–10. († equal contribution)
+  </li>
+
+  <li>
+    Hau, H. M., Mishra, T.*, Ophus, C., Huang, T. Y., Bustilo, K., Sun, Y., ..., Cai, Z.* &amp; Ceder, G.* (2024).
+    <em>Earth-abundant Li-ion cathode materials with nanoengineered microstructures.</em>
+    Nature Nanotechnology, 19(12), 1831–1839. (* corresponding author)
+  </li>
+
+  <li>
+    Cai, Z.†, Zhang, Y.†, Lun, Z.†, Ouyang, B., ... &amp; Ceder, G. (2022).
+    <em>Thermodynamically driven synthetic optimization for cation-disordered rocksalt cathodes.</em>
+    Advanced Energy Materials, 12(21), 2103923. († equal contribution)
+  </li>
+
+  <li>
+    Cai, Z.†, Ji, H.†, Ha, Y., Liu, J., Kwon, D. H., Zhang, Y., ... &amp; Ceder, G. (2021).
+    <em>Realizing continuous cation order-to-disorder tuning in a class of high-energy spinel-type Li-ion cathodes.</em>
+    Matter, 4(12), 3897–3916. († equal contribution)
+  </li>
+
+  <li>
+    He, J., Yu, R., Liu, F., Zhang, Y., Jin, C., Zhang, B., Cai, Z.* &amp; Lun, Z.* (2025).
+    <em>Minimizing the Reaction Heterogeneity in Ultrafast Joule Heating Synthesis of Disordered Rocksalt Cathodes.</em>
+    Chemistry of Materials. (* corresponding author)
+  </li>
+
+  <li>
+    Zhong, P.†, Cai, Z.†, Zhang, Y., Giovine, R., Ouyang, B., Zeng, G., ... &amp; Ceder, G. (2020).
+    <em>Increasing Capacity in Disordered Rocksalt Cathodes by Mg Doping.</em>
+    Chemistry of Materials, 32(24), 10728–10736. († equal contribution)
+  </li>
+
+  <li>
+    Liu, P.†, Cai, Z.†, You, Y.†, Huang, H.†, Chen, S., Gao, C., ... &amp; Xiong, Y. (2018).
+    <em>Surface Modification on Pd‐TiO₂ Hybrid Nanostructures towards Highly Efficient H₂ Production.</em>
+    Chemistry–A European Journal, 24(69), 18398–18402. († equal contribution)
+  </li>
+
+  <li>
+    Ji, H., Wu, J.†, Cai, Z.†, Liu, J., Kwon, D. H., Kim, H., ... &amp; Ceder, G. (2020).
+    <em>Ultrahigh power and energy density in partially ordered lithium-ion cathode materials.</em>
+    Nature Energy, 5(3), 213–221. († equal contribution)
+  </li>
+
+  <li>
+    Lun, Z., Ouyang, B., Cai, Z., Clément, R. J., Kwon, D. H., Huang, J., ... &amp; Ceder, G. (2020).
+    <em>Design principles for high-capacity Mn-based cation-disordered rocksalt cathodes.</em>
+    Chem, 6(1), 153–168.
+  </li>
+
+  <li>
+    Zhao, X., Tian, Y., Lun, Z., Cai, Z., Chen, T., Ouyang, B., &amp; Ceder, G. (2022).
+    <em>Design principles for zero-strain Li-ion cathodes.</em>
+    Joule, 6(7), 1654–1671.
+  </li>
+
+  <li>
+    Ji, H., Urban, A., Kitchaev, D. A., Kwon, D. H., Artrith, N., Ophus, C., Huang, W., Cai, Z., ... &amp; Ceder, G. (2019).
+    <em>Hidden structural and chemical order controls lithium transport in cation-disordered oxides.</em>
+    Nature Communications, 10(1), 1–9.
+  </li>
+
+  <li>
+    Lun, Z., Ouyang, B., Kwon, D. H., Ha, Y., Foley, E. E., Huang, T. Y., Cai, Z., ... &amp; Ceder, G. (2021).
+    <em>Cation-disordered rocksalt-type high-entropy cathodes for Li-ion batteries.</em>
+    Nature Materials, 20(2), 214–221.
+  </li>
+
+  <li>
+    Ji, H., Kitchaev, D. A., Lun, Z., Kim, H., Foley, E., Kwon, D. H., Tian, Y., ... &amp; Ceder, G. (2019).
+    <em>Computational investigation and experimental realization of disordered high-capacity Li-ion cathodes.</em>
+    Chemistry of Materials, 31(7), 2431–2442.
+  </li>
+
+  <li>
+    Chen, Y., Bartel, C. J., Avdeev, M., Zhang, Y. Q., Liu, J., Zhong, P., Zeng, G., Cai, Z., ... &amp; Ceder, G. (2021).
+    <em>Solid-State Calcium-Ion Diffusion in Ca₁.₅Ba₀.₅Si₅O₃N₆.</em>
+    Chemistry of Materials.
+  </li>
+
+  <li>
+    Wang, Z., Kononova, O., Cruse, K., He, T., Huo, H., Fei, Y., Zeng, Y., Sun, Y., Cai, Z., Sun, W. &amp; Ceder, G. (2022).
+    <em>Dataset of solution-based inorganic materials synthesis procedures.</em>
+    Scientific Data, 9(1), 1–11.
+  </li>
+
+  <li>
+    You, Y., Huang, H., Xia, S., Cai, Z., Liu, P., Wang, C., ... &amp; Xiong, Y. (2018).
+    <em>Design of Pd {111}-TiO₂ interface for enhanced catalytic efficiency.</em>
+    Science China Chemistry, 61(9), 1123–1127.
+  </li>
+
+  <li>
+    Li, Y., Chen, S., Long, R., Ju, H., Wang, Z., Yu, X., Gao, F., Cai, Z., ... &amp; Xiong, Y. (2017).
+    <em>Near-surface dilution of trace Pd atoms to facilitate Pd–H bond cleavage.</em>
+    Nano Energy, 34, 306–312.
+  </li>
+
+  <li>
+    Zeng, Y., Ouyang, B., Liu, J., Byeon, Y. W., Cai, Z., Miara, L. J., ... &amp; Ceder, G. (2022).
+    <em>High-entropy mechanism to boost ionic conductivity.</em>
+    Science, 378(6626), 1320–1324.
+  </li>
+
+  <li>
+    Huang, T. Y., Cai, Z., Crafton, M. J., Kaufman, L. A., Konz, Z. M., Bergstrom, H. K., ... &amp; McCloskey, B. D. (2023).
+    <em>Quantitative Decoupling of Oxygen-Redox and Manganese-Redox Voltage Hysteresis.</em>
+    Advanced Energy Materials, 13(21), 2300241.
+  </li>
+</ul>
+
+<style>
+  .pub-list {
+    list-style: none;
+    padding-left: 0;
+    counter-reset: pub;
+    line-height: 1.8;
+  }
+  .pub-list li {
+    counter-increment: pub;
+    margin-bottom: 14px;
+  }
+  .pub-list li::before {
+    content: "[" counter(pub) "] ";
+    font-weight: 600;
+  }
+</style>
