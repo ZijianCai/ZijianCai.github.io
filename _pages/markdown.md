@@ -47,10 +47,6 @@ redirect_from:
 **联系方式：**  
 团队负责人邮箱：zjcai@berkeley.edu 
 
-**请通过邮件联系，联系时请附带：**
-- 个人简历  
-- 本科（及研究生阶段，如有）成绩单  
-
 ---
 
 <p style="text-align:center; color:#666; font-size:0.9em; margin-top:40px;">
