@@ -1,4 +1,5 @@
----
+<!-----
+
 title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
@@ -13,3 +14,15 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 --- 
 
 [1] Cai, Z.†, Ouyang, B.†, Hau, H. M., Chen, T., Giovine, R., Koirala, K. P., ... & Ceder, G. (2023). In situ formed partially disordered phases as earth-abundant Mn-rich cathode materials. Nature Energy, 1-10. (†equal contribution)
+-->
+
+---
+title: "In situ formed partially disordered phases as earth-abundant Mn-rich cathode materials"
+collection: publications
+date: 2023-01-01
+---
+
+Cai, Z.†, Ouyang, B.†, Hau, H. M., Chen, T., Giovine, R., Koirala, K. P., … Ceder, G. (2023).  
+**In situ formed partially disordered phases as earth-abundant Mn-rich cathode materials.**  
+*Nature Energy*, 1–10.  
+(† equal contribution)
