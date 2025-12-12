@@ -59,8 +59,7 @@ Contact information
 * Email: zjcai@berkeley.edu  
 * Google Scholar profile: [Zijian Cai](https://scholar.google.com/citations?user=4OFp18YAAAAJ&hl=en&oi=ao)
 
-
-{% comment %}
+<!--
 Publications
 ======
 <ul>{% for post in site.publications reversed %}
@@ -82,4 +81,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-{% endcomment %}
+ -->
