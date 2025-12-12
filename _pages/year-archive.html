@@ -6,6 +6,15 @@ author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
+{% if site.author.googlescholar %}
+  <div class="wordwrap">
+  你可以点击
+  <a href="https://scholar.google.com/citations?user=4OFp18YAAAAJ&hl=en&oi=ao" target="_blank">
+    此链接
+  </a>
+  查看最新研究成果
+</div>
+{% endif %}
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
