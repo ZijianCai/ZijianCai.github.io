@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Materials Science and Engineering, University of California at Berkeley (UCB), Aug. 2018 — Dec. 2022  
   * Material Sciences Division, Lawrence Berkeley National Laboratory (LBNL)  
-  * Supervisor: Prof. Gerbrand Ceder  
+  * Research advisor: Prof. Gerbrand Ceder  
   * Thesis: *Cation Order Construction in Cation-Disordered Rocksalt Cathodes*
 
 * B.S. in Materials Physics, University of Science and Technology of China (USTC), Sept. 2014 — Jun. 2018  
@@ -33,7 +33,7 @@ Work experience
 * Dec. 2022 — Sept. 2024: Postdoctoral Scholar  
   * Department of Materials Science and Engineering, University of California at Berkeley (UCB)  
   * Material Sciences Division, Lawrence Berkeley National Laboratory (LBNL)  
-  * Supervisor: Prof. Gerbrand Ceder
+  * Research advisor: Prof. Gerbrand Ceder
 
 
 Teaching experience
