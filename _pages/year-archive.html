@@ -1,4 +1,4 @@
-请生产完整版，---
+---
 layout: archive
 permalink: /year-archive/
 title: "研究成果"
@@ -15,3 +15,67 @@ redirect_from:
   查看最新研究成果
 </div>
 
+<hr>
+
+<h2>2025</h2>
+<ul class="pub-list">
+  <li>
+    He, J., Yu, R., Liu, F., Zhang, Y., Jin, C., Zhang, B., <span class="cz">Cai, Z.</span>, and Lun, Z. (2025).
+    <em>Minimizing the Reaction Heterogeneity in Ultrafast Joule Heating Synthesis of Disordered Rocksalt Cathodes.</em>
+    Chemistry of Materials.
+    <a href="javascript:void(0);" class="pub-btn"
+       onclick="confirmPdfDownload('/files/papers/2025_30.pdf')">PDF</a>
+  </li>
+  <li>
+    Kim, H., Jun, K., Szymanski, N., Sai Avvaru, V., <span class="cz">Cai, Z.</span>, Crafton, M., Lee, G.H., Trask, S.E., Babbe, F., and Byeon, Y.W. (2025).
+    <em>Screening and Development of Sacrificial Cathode Additives for Lithium‐Ion Batteries.</em>
+    Advanced Energy Materials 15, 2403946.
+    <a href="javascript:void(0);" class="pub-btn"
+       onclick="confirmPdfDownload('/files/papers/2025_29.pdf')">PDF</a>
+  </li>
+  <li>
+    Moździerz, M., Holstun, T., <span class="cz">Cai, Z.</span>, Lee, G.H., Hau, H.M., Yang, X., Chen, Y., Czaja, P., Yang, W., and Świerczek, K. (2025).
+    <em>Tuning Cation (Dis) Order in Cr‐Based Li‐Excess Oxide Cathode Materials to Improve Li+ Transport Properties.</em>
+    Advanced Energy Materials, 2502157.
+    <a href="javascript:void(0);" class="pub-btn"
+       onclick="confirmPdfDownload('/files/papers/2025_28.pdf')">PDF</a>
+  </li>
+</ul>
+
+<hr>
+
+<p style="text-align:center; color:#666; font-size:0.9em; margin-top:40px;">
+  © 2025 蔡子健课题组 · All Rights Reserved
+</p>
+
+<style>
+  /* bracket numbering */
+  .pub-list { list-style: none; padding-left: 0; counter-reset: pub; line-height: 1.8; }
+  .pub-list li { counter-increment: pub; margin: 0 0 14px 0; }
+  .pub-list li::before { content: "[" counter(pub) "] "; font-weight: 700; }
+
+  /* highlight Cai, Z. */
+  .cz { font-weight: 800; text-decoration: underline; }
+
+  /* small PDF button */
+  .pub-btn{
+    display: inline-block;
+    margin-left: 8px;
+    padding: 2px 8px;
+    border: 1px solid #999;
+    border-radius: 999px;
+    font-size: 0.85em;
+    color: #333;
+    text-decoration: none;
+    vertical-align: baseline;
+  }
+  .pub-btn:hover { text-decoration: underline; }
+</style>
+
+<script>
+function confirmPdfDownload(pdfPath) {
+  if (confirm("是否下载该论文 PDF？\nDownload this paper as a PDF?")) {
+    window.location.href = pdfPath;
+  }
+}
+</script>
